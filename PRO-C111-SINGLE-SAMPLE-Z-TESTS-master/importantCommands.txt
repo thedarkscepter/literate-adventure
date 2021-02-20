@@ -1,0 +1,8 @@
+PS D:\projects_vansh\module3\PROJ111> & C:/Users/HP/AppData/Local/Programs/Python/Python38-32/python.exe d:/projects_vansh/module3/PROJ111/z-score.py
+mean of sampling distribution:-  50.50313
+Standard deviation of sampling distribution:-  2.9301921659217554
+Mean of sample1:-  50.41
+mean of sample 2:-  55.33
+mean of sample3:-  57.29
+The z score is =  -1.64728786600984
+PS D:\projects_vansh\module3\PROJ111>
